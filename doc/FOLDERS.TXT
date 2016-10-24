@@ -1,0 +1,16 @@
+    
+Estrutura de diretórios:
+/
+    src — Arquivos-fonte escritos por mim
+    ext — Bibliotecas de terceiros
+        libname-1.2.8
+            include — Headers
+            lib — Compiled lib files
+            Donwload.txt — Link para download 
+    bin — Executável compilado
+    build — Arquivos de build criados pelo compilador
+    aux — Programas auxiliares para compilação / teste
+    doc — Documentação
+    README
+    COPYING
+    
