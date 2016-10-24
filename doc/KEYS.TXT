@@ -1,0 +1,16 @@
+ESC: Exit
+
+
+
+Player 1:
+
+- Arrow up/down or Joystick 1 up/down: Paddle up / Paddle down
+- Arrow left/right or Joystick 1 left/right: Tilt paddle or select launch angle
+- Space or Joystick 1 trigger A: Shoot or launch ball
+
+
+Player 2:
+
+- E/D or Joystick 2 up/down: Paddle up / Paddle down
+- H/J or Joystick 2 left/right: Tilt paddle or select launch angle
+- F or Joystick 2 trigger A: Shoot or launch ball
